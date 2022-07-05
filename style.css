@@ -73,3 +73,51 @@ span{
 .btn2{
     margin-left: -100px;
 }
+.top-part{
+    text-align: center;
+}
+.top-part h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 42px;
+    font-weight: 600;
+    color: dimgray;
+}
+.top-part p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    color: gray;
+}
+.last-part{
+    display: flex;
+    width: 100%;
+}    
+.box-shadow{
+    width: 40%;
+    padding: 20px;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 30px;
+}
+.box-shadow img{
+    width: 580px;
+    height: 340px;
+    margin-top: 10px;
+    margin-left: 10px;
+    align-items: center;
+}
+.left{
+    margin-left: 80px;
+}
+.right{
+    margin-left: 50px;
+}
+.box-shadow h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+    font-weight: 600;
+    color: dimgray;
+}
+.box-shadow p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    color: gray;
+}
